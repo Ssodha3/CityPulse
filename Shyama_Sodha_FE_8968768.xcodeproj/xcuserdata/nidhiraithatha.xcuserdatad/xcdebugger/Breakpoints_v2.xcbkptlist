@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "5BF8B737-2A84-4BAD-ADC6-DC468DAE96BF"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "67461D0B-A558-4CA6-A1BF-D00B85C199E1"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Shyama_Sodha_FE_8968768/WeatherViewController.swift"
+            startingColumnNumber = "46"
+            endingColumnNumber = "46"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "cityAlertBtn(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "67461D0B-A558-4CA6-A1BF-D00B85C199E1 - 8cde1f4941f6554d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Shyama_Sodha_FE_8968768.WeatherViewController.cityAlertBtn(Any) -&gt; ()"
+                  moduleName = "Shyama_Sodha_FE_8968768"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nidhiraithatha/Downloads/FinalExam/Shyama_Sodha_FE_8968768/Shyama_Sodha_FE_8968768/WeatherViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "181">
+               </Location>
+               <Location
+                  uuid = "67461D0B-A558-4CA6-A1BF-D00B85C199E1 - 4debdf69d9326b18"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "implicit closure #2 (Swift.Optional&lt;__C.UITextField&gt;) -&gt; () in implicit closure #1 (Shyama_Sodha_FE_8968768.WeatherViewController) -&gt; (Swift.Optional&lt;__C.UITextField&gt;) -&gt; () in Shyama_Sodha_FE_8968768.WeatherViewController.cityAlertBtn(Any) -&gt; ()"
+                  moduleName = "Shyama_Sodha_FE_8968768"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nidhiraithatha/Downloads/FinalExam/Shyama_Sodha_FE_8968768/Shyama_Sodha_FE_8968768/WeatherViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "37">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BF278BDA-9D73-43A9-A233-D7C5BCCAA25B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Shyama_Sodha_FE_8968768/DirectionsViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "215"
+            endingLineNumber = "215"
+            landmarkName = "updateZoomLevel(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0C06BFB7-DC08-4EA6-9998-D896368AE9F9"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Shyama_Sodha_FE_8968768/NewsViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "139"
+            endingLineNumber = "139"
+            landmarkName = "fetchNewsForQuery(query:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EE963273-7C61-406E-B36B-42424E960B63"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Shyama_Sodha_FE_8968768/NewsViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "76"
+            endingLineNumber = "76"
+            landmarkName = "locationManager(_:didUpdateLocations:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BF254D32-C22D-409C-BB90-D228112A3862"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Shyama_Sodha_FE_8968768/NewsViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "161"
+            endingLineNumber = "161"
+            landmarkName = "fetchNewsForQuery(query:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A71E4705-26ED-448A-A1E8-E2F2155469D4"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Shyama_Sodha_FE_8968768/NewsViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "129"
+            endingLineNumber = "129"
+            landmarkName = "fetchNewsForQuery(query:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A71E4705-26ED-448A-A1E8-E2F2155469D4 - cfde6819292dc6a3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Shyama_Sodha_FE_8968768.NewsViewController.fetchNewsForQuery(query: Swift.Optional&lt;Swift.String&gt;) -&gt; ()"
+                  moduleName = "Shyama_Sodha_FE_8968768"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nidhiraithatha/Downloads/FinalExam/Shyama_Sodha_FE_8968768/Shyama_Sodha_FE_8968768/NewsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "127"
+                  endingLineNumber = "127"
+                  offsetFromSymbolStart = "402">
+               </Location>
+               <Location
+                  uuid = "A71E4705-26ED-448A-A1E8-E2F2155469D4 - cfde6819292dc6a3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Shyama_Sodha_FE_8968768.NewsViewController.fetchNewsForQuery(query: Swift.Optional&lt;Swift.String&gt;) -&gt; ()"
+                  moduleName = "Shyama_Sodha_FE_8968768"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nidhiraithatha/Downloads/FinalExam/Shyama_Sodha_FE_8968768/Shyama_Sodha_FE_8968768/NewsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "127"
+                  endingLineNumber = "127"
+                  offsetFromSymbolStart = "472">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E7CB34C1-F664-4474-93D2-0F0FD0B099C2"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Shyama_Sodha_FE_8968768/NewsViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "134"
+            endingLineNumber = "134"
+            landmarkName = "fetchNewsForQuery(query:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E7CB34C1-F664-4474-93D2-0F0FD0B099C2 - cfde6819292dc5c6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Shyama_Sodha_FE_8968768.NewsViewController.fetchNewsForQuery(query: Swift.Optional&lt;Swift.String&gt;) -&gt; ()"
+                  moduleName = "Shyama_Sodha_FE_8968768"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nidhiraithatha/Downloads/FinalExam/Shyama_Sodha_FE_8968768/Shyama_Sodha_FE_8968768/NewsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "132"
+                  endingLineNumber = "132"
+                  offsetFromSymbolStart = "614">
+               </Location>
+               <Location
+                  uuid = "E7CB34C1-F664-4474-93D2-0F0FD0B099C2 - cfde6819292dc5c6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Shyama_Sodha_FE_8968768.NewsViewController.fetchNewsForQuery(query: Swift.Optional&lt;Swift.String&gt;) -&gt; ()"
+                  moduleName = "Shyama_Sodha_FE_8968768"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nidhiraithatha/Downloads/FinalExam/Shyama_Sodha_FE_8968768/Shyama_Sodha_FE_8968768/NewsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "132"
+                  endingLineNumber = "132"
+                  offsetFromSymbolStart = "823">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5407856B-E29E-438C-BC6A-A40A57F31A4C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Shyama_Sodha_FE_8968768/NewsViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "125"
+            endingLineNumber = "125"
+            landmarkName = "fetchNewsForQuery(query:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D375F550-DCC4-4A6D-BE90-0C4072AEFA1A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Shyama_Sodha_FE_8968768/NewsViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "128"
+            endingLineNumber = "128"
+            landmarkName = "fetchNewsForQuery(query:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "D375F550-DCC4-4A6D-BE90-0C4072AEFA1A - f7d0b34d97e78fb2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Shyama_Sodha_FE_8968768.NewsViewController.fetchNewsForQuery(query: Swift.Optional&lt;Swift.String&gt;) -&gt; ()"
+                  moduleName = "Shyama_Sodha_FE_8968768"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nidhiraithatha/Downloads/FinalExam/Shyama_Sodha_FE_8968768/Shyama_Sodha_FE_8968768/NewsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "126"
+                  endingLineNumber = "126"
+                  offsetFromSymbolStart = "513">
+               </Location>
+               <Location
+                  uuid = "D375F550-DCC4-4A6D-BE90-0C4072AEFA1A - cfde6819292dc6a3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Shyama_Sodha_FE_8968768.NewsViewController.fetchNewsForQuery(query: Swift.Optional&lt;Swift.String&gt;) -&gt; ()"
+                  moduleName = "Shyama_Sodha_FE_8968768"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nidhiraithatha/Downloads/FinalExam/Shyama_Sodha_FE_8968768/Shyama_Sodha_FE_8968768/NewsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "127"
+                  endingLineNumber = "127"
+                  offsetFromSymbolStart = "402">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E88207BB-07F8-4EBB-91AB-12A89B5C40C8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Shyama_Sodha_FE_8968768/DirectionsViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "113"
+            endingLineNumber = "113"
+            landmarkName = "fetchLonAndLatForCity(cityName:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3D79D7AC-9C0C-4A75-8758-30E05E17004A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Shyama_Sodha_FE_8968768/HistoryViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5773F594-0D8A-4A29-976E-D1B6738E2B7E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Shyama_Sodha_FE_8968768/HistoryDataSource.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "66"
+            endingLineNumber = "66"
+            landmarkName = "addItem(item:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
